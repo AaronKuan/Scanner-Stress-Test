@@ -1,0 +1,5 @@
+{
+  "name": "Scanner Stress Test (Portrait)",
+  "description": "Mobile portrait optimized barcode stress test using producer-consumer pattern.",
+  "requestFramePermissions": []
+}
